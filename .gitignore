@@ -1,0 +1,12 @@
+# Godot 4 generated files
+.godot/
+
+# Export builds
+build/
+
+# macOS
+.DS_Store
+
+# Editor backup files
+*.backup
+*~
