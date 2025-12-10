@@ -2,6 +2,8 @@
 
 A Godot 4.5 demo that displays 3D extruded text arranged in a rotating circle around a sphere.
 
+![Demo Screenshot](images/demo.png?ts=1765334321331)
+
 ## Quick Start
 
 ```bash
