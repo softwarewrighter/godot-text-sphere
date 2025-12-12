@@ -3,7 +3,7 @@ extends Node3D
 # FIX VERSION (debug)
 const FIX_VERSION := "2025-12-09T21:20Z"
 
-@export var text_to_extrude: String = "DEMO"
+@export var text_to_extrude: String = "[godot-text-sphere]"
 @export var radius: float = 8.0
 @export var letter_thickness: float = 0.3
 @export var rotation_speed: float = 0.4

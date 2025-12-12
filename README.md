@@ -2,7 +2,11 @@
 
 A Godot 4.5 demo that displays 3D extruded text arranged in a rotating circle around a sphere.
 
-![Demo Screenshot](images/demo.png?ts=1765334321331)
+![Demo Screenshot](images/demo.png?ts=1734036349795)
+
+## Related Projects
+
+- [three-text-sphere](https://github.com/softwarewrighter/three-text-sphere) - A similar rotating text sphere demo using Three.js instead of Godot
 
 ## Quick Start
 
