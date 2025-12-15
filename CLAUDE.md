@@ -17,7 +17,7 @@ All commands should be run from the `godot_rotating_text_demo/` directory.
 # Export for macOS
 ./export_mac.sh
 
-# Export for Web
+# Export for Web (outputs to repo root /docs for GitHub Pages)
 ./export_web.sh
 
 # Regenerate the entire project from scratch
